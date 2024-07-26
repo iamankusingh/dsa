@@ -1,0 +1,6 @@
+Time complexity
+comparing runtime of different algorithm
+type:
+	big O, big omega and big theta
+	0 <= f(n) <= c g(n) such that n>=n.
+big O

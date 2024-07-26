@@ -1,0 +1,12 @@
+data structure is a way to arrange data in main memory (RAM) for efficient usage.
+eg: array, list, linked, stack, queues, etc...
+
+while algorithm is sequance of steps to solve a problem or effecient acess of data.
+
+some terminologies:
+database: place where data lives or oragnized.
+datawherehouse: place where very large amount of data is keept.
+Big data: very large data set.
+legacy data: big data for future analysis
+time complexity: amount of time taken by algorithm on change of input data.
+space complexity: memory space taken by an algorithm to produce output.

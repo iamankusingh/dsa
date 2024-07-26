@@ -1,0 +1,77 @@
+-> Algorithm Specifications and Analysis
+Algorithm specifications
+Performance Analysis:
+Time complexity: Big O, Big Ω, Big Θ notations
+Space complexity
+Case Analysis:
+Best case, worst case, average case analysis
+
+-> Data Types and Data Structures
+Data Types:
+Primitive data types: Integer, Float, Character, Boolean
+Non-primitive data types: Arrays, Structures, Pointers
+Data Structures Overview:
+Linear data structures: Arrays, Linked Lists, Stacks, Queues
+Non-linear data structures: Trees, Graphs
+
+-> Arrays
+Array Basics:
+Definition and types
+Array representation in memory
+Applications of Arrays:
+Basic operations: Insertion, deletion, traversal
+
+-> Stacks
+Stack Definitions and Concepts
+Stack Operations
+Applications of Stacks:
+Polish Expression
+Reverse Polish Expression
+Sparse matrix representation
+
+-> Queues
+Queue Basics:
+Definition and concepts
+Queue operations
+Types of Queues:
+Circular Queue
+Priority Queue: Definition, operations, and array representation
+Double-ended Queue (Deque)
+Applications of Queues
+
+-> Linked Lists
+Singly Linked List
+Doubly Linked List
+Circular Linked List
+Linked Implementation:
+Stack
+Queue
+Applications of Linked Lists
+
+-> Trees
+Tree Definitions and Concepts
+Representation of Binary Trees
+Tree Traversal:
+Inorder
+Preorder
+Postorder
+Applications of Trees
+Balanced Trees:
+AVL trees
+2-3 trees
+Height Balanced
+Weight Balanced
+Conversion of General Trees to Binary Trees
+Binary Search Trees
+Threaded Binary Tree
+
+-> Searching and Sorting
+Searching Algorithms:
+Linear Search
+Binary Search
+Sorting Algorithms:
+Bubble Sort
+Selection Sort
+Insertion Sort
+Quick Sort
+Merge Sort

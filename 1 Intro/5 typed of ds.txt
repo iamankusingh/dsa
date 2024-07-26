@@ -1,0 +1,17 @@
+#types of data structure
+
+1 -> Primitive : same data type.
+    eg : int, string, float, etc..
+
+2 -> Non-Primitive (abstract) : structure of different data type.
+
+    2.1 -> Linear : data arrange in sequance or in line.
+
+        2.1.1 -> Static : can't change data during runtime.
+            eg : array.
+
+        2.1.2 -> Dynamic : can change data during runtime.
+            eg : Linked list, stack, queue
+
+    2.2 -> Non-Linear : data arrange non linearly or non sequentially.
+        eg : tree, graph.

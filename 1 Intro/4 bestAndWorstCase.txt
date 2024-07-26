@@ -1,0 +1,5 @@
+#best and worst case analysis in DSA.
+
+bets case: O(1) means algorithm find match at first element
+worst case O(n) means algorithm find match at last or can't find
+average (expected) : = sum of posible runtimes / total no of posiblities
